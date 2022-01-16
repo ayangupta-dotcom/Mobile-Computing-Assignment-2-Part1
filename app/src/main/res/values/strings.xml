@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assignment-2</string>
+    <string name="apphome_proceed">CONTINUE</string>
+    <string name="proceed_to_practice">PRACTICE </string>
+    <string name="play_guide_video">PLAY VIDEO </string>
+    <string name="record_user_gesture">  Start Recording  </string>
+    <string name="upload_to_server">  Upload Video  </string>
+</resources>
